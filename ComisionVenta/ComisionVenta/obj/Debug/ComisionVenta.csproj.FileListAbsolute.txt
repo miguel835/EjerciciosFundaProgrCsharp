@@ -1,0 +1,7 @@
+C:\workspace\EjerciciosFundaProgrCsharp\ComisionVenta\ComisionVenta\bin\Debug\ComisionVenta.exe.config
+C:\workspace\EjerciciosFundaProgrCsharp\ComisionVenta\ComisionVenta\bin\Debug\ComisionVenta.exe
+C:\workspace\EjerciciosFundaProgrCsharp\ComisionVenta\ComisionVenta\bin\Debug\ComisionVenta.pdb
+C:\workspace\EjerciciosFundaProgrCsharp\ComisionVenta\ComisionVenta\obj\Debug\ComisionVenta.csproj.AssemblyReference.cache
+C:\workspace\EjerciciosFundaProgrCsharp\ComisionVenta\ComisionVenta\obj\Debug\ComisionVenta.csproj.CoreCompileInputs.cache
+C:\workspace\EjerciciosFundaProgrCsharp\ComisionVenta\ComisionVenta\obj\Debug\ComisionVenta.exe
+C:\workspace\EjerciciosFundaProgrCsharp\ComisionVenta\ComisionVenta\obj\Debug\ComisionVenta.pdb
