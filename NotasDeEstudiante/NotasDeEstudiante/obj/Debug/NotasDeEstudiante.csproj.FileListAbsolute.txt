@@ -1,0 +1,7 @@
+D:\workspace\EjerciciosFundaProgrCsharp\NotasDeEstudiante\NotasDeEstudiante\bin\Debug\NotasDeEstudiante.exe.config
+D:\workspace\EjerciciosFundaProgrCsharp\NotasDeEstudiante\NotasDeEstudiante\bin\Debug\NotasDeEstudiante.exe
+D:\workspace\EjerciciosFundaProgrCsharp\NotasDeEstudiante\NotasDeEstudiante\bin\Debug\NotasDeEstudiante.pdb
+D:\workspace\EjerciciosFundaProgrCsharp\NotasDeEstudiante\NotasDeEstudiante\obj\Debug\NotasDeEstudiante.csproj.AssemblyReference.cache
+D:\workspace\EjerciciosFundaProgrCsharp\NotasDeEstudiante\NotasDeEstudiante\obj\Debug\NotasDeEstudiante.csproj.CoreCompileInputs.cache
+D:\workspace\EjerciciosFundaProgrCsharp\NotasDeEstudiante\NotasDeEstudiante\obj\Debug\NotasDeEstudiante.exe
+D:\workspace\EjerciciosFundaProgrCsharp\NotasDeEstudiante\NotasDeEstudiante\obj\Debug\NotasDeEstudiante.pdb

@@ -1,0 +1,7 @@
+D:\workspace\EjerciciosFundaProgrCsharp\EdadDelUsuario\EdadDelUsuario\bin\Debug\EdadDelUsuario.exe.config
+D:\workspace\EjerciciosFundaProgrCsharp\EdadDelUsuario\EdadDelUsuario\bin\Debug\EdadDelUsuario.exe
+D:\workspace\EjerciciosFundaProgrCsharp\EdadDelUsuario\EdadDelUsuario\bin\Debug\EdadDelUsuario.pdb
+D:\workspace\EjerciciosFundaProgrCsharp\EdadDelUsuario\EdadDelUsuario\obj\Debug\EdadDelUsuario.csproj.AssemblyReference.cache
+D:\workspace\EjerciciosFundaProgrCsharp\EdadDelUsuario\EdadDelUsuario\obj\Debug\EdadDelUsuario.csproj.CoreCompileInputs.cache
+D:\workspace\EjerciciosFundaProgrCsharp\EdadDelUsuario\EdadDelUsuario\obj\Debug\EdadDelUsuario.exe
+D:\workspace\EjerciciosFundaProgrCsharp\EdadDelUsuario\EdadDelUsuario\obj\Debug\EdadDelUsuario.pdb
