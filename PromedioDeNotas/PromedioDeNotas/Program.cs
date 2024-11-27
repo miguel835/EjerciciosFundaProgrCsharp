@@ -24,6 +24,7 @@ namespace PromedioDeNotas
                 }
                 Console.WriteLine("La suma de todas las notas es: {0}", suma);
                 Console.WriteLine($"El promedio del estudiante es: {suma / 5}");
+                Console.ReadKey();
             } catch {Console.WriteLine("Nota ingresada no valida"); }
         }
     }

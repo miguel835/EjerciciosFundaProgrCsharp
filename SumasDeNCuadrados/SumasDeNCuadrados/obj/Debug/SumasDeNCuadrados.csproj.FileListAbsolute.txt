@@ -1,0 +1,7 @@
+C:\workspace\EjerciciosFundaProgrCsharp\SumasDeNCuadrados\SumasDeNCuadrados\bin\Debug\SumasDeNCuadrados.exe.config
+C:\workspace\EjerciciosFundaProgrCsharp\SumasDeNCuadrados\SumasDeNCuadrados\bin\Debug\SumasDeNCuadrados.exe
+C:\workspace\EjerciciosFundaProgrCsharp\SumasDeNCuadrados\SumasDeNCuadrados\bin\Debug\SumasDeNCuadrados.pdb
+C:\workspace\EjerciciosFundaProgrCsharp\SumasDeNCuadrados\SumasDeNCuadrados\obj\Debug\SumasDeNCuadrados.csproj.AssemblyReference.cache
+C:\workspace\EjerciciosFundaProgrCsharp\SumasDeNCuadrados\SumasDeNCuadrados\obj\Debug\SumasDeNCuadrados.csproj.CoreCompileInputs.cache
+C:\workspace\EjerciciosFundaProgrCsharp\SumasDeNCuadrados\SumasDeNCuadrados\obj\Debug\SumasDeNCuadrados.exe
+C:\workspace\EjerciciosFundaProgrCsharp\SumasDeNCuadrados\SumasDeNCuadrados\obj\Debug\SumasDeNCuadrados.pdb

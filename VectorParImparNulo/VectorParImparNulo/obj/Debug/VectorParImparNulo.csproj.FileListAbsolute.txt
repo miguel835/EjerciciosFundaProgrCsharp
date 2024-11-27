@@ -1,0 +1,7 @@
+C:\workspace\EjerciciosFundaProgrCsharp\VectorParImparNulo\VectorParImparNulo\bin\Debug\VectorParImparNulo.exe.config
+C:\workspace\EjerciciosFundaProgrCsharp\VectorParImparNulo\VectorParImparNulo\bin\Debug\VectorParImparNulo.exe
+C:\workspace\EjerciciosFundaProgrCsharp\VectorParImparNulo\VectorParImparNulo\bin\Debug\VectorParImparNulo.pdb
+C:\workspace\EjerciciosFundaProgrCsharp\VectorParImparNulo\VectorParImparNulo\obj\Debug\VectorParImparNulo.csproj.AssemblyReference.cache
+C:\workspace\EjerciciosFundaProgrCsharp\VectorParImparNulo\VectorParImparNulo\obj\Debug\VectorParImparNulo.csproj.CoreCompileInputs.cache
+C:\workspace\EjerciciosFundaProgrCsharp\VectorParImparNulo\VectorParImparNulo\obj\Debug\VectorParImparNulo.exe
+C:\workspace\EjerciciosFundaProgrCsharp\VectorParImparNulo\VectorParImparNulo\obj\Debug\VectorParImparNulo.pdb
