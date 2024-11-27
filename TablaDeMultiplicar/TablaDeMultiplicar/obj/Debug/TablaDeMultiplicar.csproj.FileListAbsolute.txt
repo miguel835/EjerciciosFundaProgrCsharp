@@ -1,0 +1,7 @@
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\TablaDeMultiplicar.exe.config
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\TablaDeMultiplicar.exe
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\TablaDeMultiplicar.pdb
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\TablaDeMultiplicar.csproj.AssemblyReference.cache
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\TablaDeMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\TablaDeMultiplicar.exe
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\TablaDeMultiplicar.pdb

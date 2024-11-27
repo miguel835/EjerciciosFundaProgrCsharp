@@ -1,0 +1,7 @@
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\AñoBisiesto\AñoBisiesto\bin\Debug\AñoBisiesto.exe.config
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\AñoBisiesto\AñoBisiesto\bin\Debug\AñoBisiesto.exe
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\AñoBisiesto\AñoBisiesto\bin\Debug\AñoBisiesto.pdb
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\AñoBisiesto\AñoBisiesto\obj\Debug\AñoBisiesto.csproj.AssemblyReference.cache
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\AñoBisiesto\AñoBisiesto\obj\Debug\AñoBisiesto.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\AñoBisiesto\AñoBisiesto\obj\Debug\AñoBisiesto.exe
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\AñoBisiesto\AñoBisiesto\obj\Debug\AñoBisiesto.pdb

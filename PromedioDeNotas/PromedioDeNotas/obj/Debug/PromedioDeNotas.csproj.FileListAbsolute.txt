@@ -1,0 +1,14 @@
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\PromedioDeNotas\PromedioDeNotas\bin\Debug\PromedioDeNotas.exe.config
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\PromedioDeNotas\PromedioDeNotas\bin\Debug\PromedioDeNotas.exe
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\PromedioDeNotas\PromedioDeNotas\bin\Debug\PromedioDeNotas.pdb
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\PromedioDeNotas\PromedioDeNotas\obj\Debug\PromedioDeNotas.csproj.AssemblyReference.cache
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\PromedioDeNotas\PromedioDeNotas\obj\Debug\PromedioDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\PromedioDeNotas\PromedioDeNotas\obj\Debug\PromedioDeNotas.exe
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\PromedioDeNotas\PromedioDeNotas\obj\Debug\PromedioDeNotas.pdb
+D:\workspace\EjerciciosFundaProgrCsharp\PromedioDeNotas\PromedioDeNotas\bin\Debug\PromedioDeNotas.exe.config
+D:\workspace\EjerciciosFundaProgrCsharp\PromedioDeNotas\PromedioDeNotas\bin\Debug\PromedioDeNotas.exe
+D:\workspace\EjerciciosFundaProgrCsharp\PromedioDeNotas\PromedioDeNotas\bin\Debug\PromedioDeNotas.pdb
+D:\workspace\EjerciciosFundaProgrCsharp\PromedioDeNotas\PromedioDeNotas\obj\Debug\PromedioDeNotas.csproj.AssemblyReference.cache
+D:\workspace\EjerciciosFundaProgrCsharp\PromedioDeNotas\PromedioDeNotas\obj\Debug\PromedioDeNotas.csproj.CoreCompileInputs.cache
+D:\workspace\EjerciciosFundaProgrCsharp\PromedioDeNotas\PromedioDeNotas\obj\Debug\PromedioDeNotas.exe
+D:\workspace\EjerciciosFundaProgrCsharp\PromedioDeNotas\PromedioDeNotas\obj\Debug\PromedioDeNotas.pdb

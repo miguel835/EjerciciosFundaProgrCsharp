@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miguel D\u00EDaz\\Desktop\\Tarea tipo formativo\\TablaDeMultiplicar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C99A01-7AF3-49C6-8650-D9C5F5B664E7}|TablaDeMultiplicar\\TablaDeMultiplicar.csproj|c:\\users\\miguel d\u00EDaz\\desktop\\tarea tipo formativo\\tablademultiplicar\\tablademultiplicar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C99A01-7AF3-49C6-8650-D9C5F5B664E7}|TablaDeMultiplicar\\TablaDeMultiplicar.csproj|solutionrelative:tablademultiplicar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel D\u00EDaz\\Desktop\\Tarea tipo formativo\\TablaDeMultiplicar\\TablaDeMultiplicar\\Program.cs",
+              "RelativeDocumentMoniker": "TablaDeMultiplicar\\Program.cs",
+              "ToolTip": "C:\\Users\\Miguel D\u00EDaz\\Desktop\\Tarea tipo formativo\\TablaDeMultiplicar\\TablaDeMultiplicar\\Program.cs",
+              "RelativeToolTip": "TablaDeMultiplicar\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:24:18.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

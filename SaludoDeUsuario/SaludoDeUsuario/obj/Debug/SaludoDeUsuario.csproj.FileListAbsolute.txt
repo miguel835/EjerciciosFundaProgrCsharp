@@ -1,0 +1,7 @@
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\SaludoDeUsuario\SaludoDeUsuario\bin\Debug\SaludoDeUsuario.exe.config
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\SaludoDeUsuario\SaludoDeUsuario\bin\Debug\SaludoDeUsuario.exe
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\SaludoDeUsuario\SaludoDeUsuario\bin\Debug\SaludoDeUsuario.pdb
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\SaludoDeUsuario\SaludoDeUsuario\obj\Debug\SaludoDeUsuario.csproj.AssemblyReference.cache
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\SaludoDeUsuario\SaludoDeUsuario\obj\Debug\SaludoDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\SaludoDeUsuario\SaludoDeUsuario\obj\Debug\SaludoDeUsuario.exe
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\SaludoDeUsuario\SaludoDeUsuario\obj\Debug\SaludoDeUsuario.pdb

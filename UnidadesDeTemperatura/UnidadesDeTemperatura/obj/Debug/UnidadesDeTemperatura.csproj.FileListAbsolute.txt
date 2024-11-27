@@ -1,0 +1,7 @@
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\UnidadesDeTemperatura\UnidadesDeTemperatura\bin\Debug\UnidadesDeTemperatura.exe.config
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\UnidadesDeTemperatura\UnidadesDeTemperatura\bin\Debug\UnidadesDeTemperatura.exe
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\UnidadesDeTemperatura\UnidadesDeTemperatura\bin\Debug\UnidadesDeTemperatura.pdb
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\UnidadesDeTemperatura\UnidadesDeTemperatura\obj\Debug\UnidadesDeTemperatura.csproj.AssemblyReference.cache
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\UnidadesDeTemperatura\UnidadesDeTemperatura\obj\Debug\UnidadesDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\UnidadesDeTemperatura\UnidadesDeTemperatura\obj\Debug\UnidadesDeTemperatura.exe
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\UnidadesDeTemperatura\UnidadesDeTemperatura\obj\Debug\UnidadesDeTemperatura.pdb

@@ -1,0 +1,7 @@
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\Operaciones básicas\Operaciones básicas\bin\Debug\Operaciones básicas.exe.config
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\Operaciones básicas\Operaciones básicas\bin\Debug\Operaciones básicas.exe
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\Operaciones básicas\Operaciones básicas\bin\Debug\Operaciones básicas.pdb
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\Operaciones básicas\Operaciones básicas\obj\Debug\Operaciones básicas.csproj.AssemblyReference.cache
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\Operaciones básicas\Operaciones básicas\obj\Debug\Operaciones básicas.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\Operaciones básicas\Operaciones básicas\obj\Debug\Operaciones básicas.exe
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\Operaciones básicas\Operaciones básicas\obj\Debug\Operaciones básicas.pdb
