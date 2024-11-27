@@ -11,24 +11,19 @@ namespace PromedioDeNotas
     {
         static void Main(string[] args)
         {
-            string nota;
-            float suma = 0, aux;
+            double nota, suma = 0;
             int i = 1;
-            Console.WriteLine("El formato de ingreso es: 10.00");
             try
             {
                 while (i <= 5)
                 {
-                   
                     Console.Write($"Ingrese la nota {i}: ");
-                    nota = Console.ReadLine();
-                    aux = float.Parse(nota);
-                    suma = suma + aux;
-                    Console.WriteLine(suma);
+                    nota = Convert.ToDouble(Console.ReadLine());
+                    suma = suma + nota;
                     i++;
                 }
-                //Console.WriteLine("La suma de todas las notas es: {0:N2}", suma);
-                //Console.WriteLine($"El promedio del estudiante es: {suma / float.Parse("5")}");
+                Console.WriteLine("La suma de todas las notas es: {0}", suma);
+                Console.WriteLine($"El promedio del estudiante es: {suma / 5}");
             } catch {Console.WriteLine("Nota ingresada no valida"); }
         }
     }
