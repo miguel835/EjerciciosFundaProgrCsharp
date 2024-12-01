@@ -1,0 +1,7 @@
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\MayorDeUnaSerieDeNumeros\MayorDeUnaSerieDeNumeros\bin\Debug\MayorDeUnaSerieDeNumeros.exe.config
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\MayorDeUnaSerieDeNumeros\MayorDeUnaSerieDeNumeros\bin\Debug\MayorDeUnaSerieDeNumeros.exe
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\MayorDeUnaSerieDeNumeros\MayorDeUnaSerieDeNumeros\bin\Debug\MayorDeUnaSerieDeNumeros.pdb
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\MayorDeUnaSerieDeNumeros\MayorDeUnaSerieDeNumeros\obj\Debug\MayorDeUnaSerieDeNumeros.csproj.AssemblyReference.cache
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\MayorDeUnaSerieDeNumeros\MayorDeUnaSerieDeNumeros\obj\Debug\MayorDeUnaSerieDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\MayorDeUnaSerieDeNumeros\MayorDeUnaSerieDeNumeros\obj\Debug\MayorDeUnaSerieDeNumeros.exe
+C:\Users\Miguel Díaz\Desktop\Tarea tipo formativo\MayorDeUnaSerieDeNumeros\MayorDeUnaSerieDeNumeros\obj\Debug\MayorDeUnaSerieDeNumeros.pdb

@@ -1,0 +1,7 @@
+F:\Laboratorio 29 11\MultiplosDe6\MultiplosDe6\obj\Debug\MultiplosDe6.csproj.AssemblyReference.cache
+F:\Laboratorio 29 11\MultiplosDe6\MultiplosDe6\obj\Debug\MultiplosDe6.csproj.CoreCompileInputs.cache
+F:\Laboratorio 29 11\MultiplosDe6\MultiplosDe6\bin\Debug\MultiplosDe6.exe.config
+F:\Laboratorio 29 11\MultiplosDe6\MultiplosDe6\bin\Debug\MultiplosDe6.exe
+F:\Laboratorio 29 11\MultiplosDe6\MultiplosDe6\bin\Debug\MultiplosDe6.pdb
+F:\Laboratorio 29 11\MultiplosDe6\MultiplosDe6\obj\Debug\MultiplosDe6.exe
+F:\Laboratorio 29 11\MultiplosDe6\MultiplosDe6\obj\Debug\MultiplosDe6.pdb

@@ -1,0 +1,7 @@
+F:\Laboratorio 29 11\4Vocales\4Vocales\bin\Debug\4Vocales.exe.config
+F:\Laboratorio 29 11\4Vocales\4Vocales\bin\Debug\4Vocales.exe
+F:\Laboratorio 29 11\4Vocales\4Vocales\bin\Debug\4Vocales.pdb
+F:\Laboratorio 29 11\4Vocales\4Vocales\obj\Debug\4Vocales.csproj.AssemblyReference.cache
+F:\Laboratorio 29 11\4Vocales\4Vocales\obj\Debug\4Vocales.csproj.CoreCompileInputs.cache
+F:\Laboratorio 29 11\4Vocales\4Vocales\obj\Debug\4Vocales.exe
+F:\Laboratorio 29 11\4Vocales\4Vocales\obj\Debug\4Vocales.pdb

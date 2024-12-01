@@ -1,0 +1,15 @@
+C:\Users\TICS\Desktop\Laboratorio 29 11\SumaDePares\bin\Debug\SumaDePares.exe.config
+C:\Users\TICS\Desktop\Laboratorio 29 11\SumaDePares\bin\Debug\SumaDePares.exe
+C:\Users\TICS\Desktop\Laboratorio 29 11\SumaDePares\bin\Debug\SumaDePares.pdb
+C:\Users\TICS\Desktop\Laboratorio 29 11\SumaDePares\obj\Debug\SumaDePares.csproj.AssemblyReference.cache
+C:\Users\TICS\Desktop\Laboratorio 29 11\SumaDePares\obj\Debug\SumaDePares.csproj.SuggestedBindingRedirects.cache
+C:\Users\TICS\Desktop\Laboratorio 29 11\SumaDePares\obj\Debug\SumaDePares.csproj.CoreCompileInputs.cache
+C:\Users\TICS\Desktop\Laboratorio 29 11\SumaDePares\obj\Debug\SumaDePares.exe
+C:\Users\TICS\Desktop\Laboratorio 29 11\SumaDePares\obj\Debug\SumaDePares.pdb
+F:\Laboratorio 29 11\SumaDePares\bin\Debug\SumaDePares.exe.config
+F:\Laboratorio 29 11\SumaDePares\bin\Debug\SumaDePares.exe
+F:\Laboratorio 29 11\SumaDePares\bin\Debug\SumaDePares.pdb
+F:\Laboratorio 29 11\SumaDePares\obj\Debug\SumaDePares.csproj.AssemblyReference.cache
+F:\Laboratorio 29 11\SumaDePares\obj\Debug\SumaDePares.csproj.CoreCompileInputs.cache
+F:\Laboratorio 29 11\SumaDePares\obj\Debug\SumaDePares.exe
+F:\Laboratorio 29 11\SumaDePares\obj\Debug\SumaDePares.pdb

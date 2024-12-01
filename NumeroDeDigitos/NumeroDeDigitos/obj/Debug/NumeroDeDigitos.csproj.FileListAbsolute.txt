@@ -1,0 +1,7 @@
+F:\Laboratorio 29 11\NumeroDeDigitos\NumeroDeDigitos\bin\Debug\NumeroDeDigitos.exe.config
+F:\Laboratorio 29 11\NumeroDeDigitos\NumeroDeDigitos\bin\Debug\NumeroDeDigitos.exe
+F:\Laboratorio 29 11\NumeroDeDigitos\NumeroDeDigitos\bin\Debug\NumeroDeDigitos.pdb
+F:\Laboratorio 29 11\NumeroDeDigitos\NumeroDeDigitos\obj\Debug\NumeroDeDigitos.csproj.AssemblyReference.cache
+F:\Laboratorio 29 11\NumeroDeDigitos\NumeroDeDigitos\obj\Debug\NumeroDeDigitos.csproj.CoreCompileInputs.cache
+F:\Laboratorio 29 11\NumeroDeDigitos\NumeroDeDigitos\obj\Debug\NumeroDeDigitos.exe
+F:\Laboratorio 29 11\NumeroDeDigitos\NumeroDeDigitos\obj\Debug\NumeroDeDigitos.pdb

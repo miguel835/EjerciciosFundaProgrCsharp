@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Laboratorio 29 11\\4Vocales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EDC41A-F91C-431C-BBD6-4D1B16F76E50}|4Vocales\\4Vocales.csproj|f:\\laboratorio 29 11\\4vocales\\4vocales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EDC41A-F91C-431C-BBD6-4D1B16F76E50}|4Vocales\\4Vocales.csproj|solutionrelative:4vocales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Laboratorio 29 11\\4Vocales\\4Vocales\\Program.cs",
+              "RelativeDocumentMoniker": "4Vocales\\Program.cs",
+              "ToolTip": "F:\\Laboratorio 29 11\\4Vocales\\4Vocales\\Program.cs",
+              "RelativeToolTip": "4Vocales\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:01:28.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
