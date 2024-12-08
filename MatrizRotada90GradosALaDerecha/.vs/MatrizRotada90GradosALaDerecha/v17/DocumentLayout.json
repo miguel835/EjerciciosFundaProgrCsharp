@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\EjerciciosFundaProgrCsharp\\MatrizRotada90GradosALaDerecha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{728A2539-A937-4BC3-AE67-891B41E91426}|MatrizRotada90GradosALaDerecha\\MatrizRotada90GradosALaDerecha.csproj|d:\\workspace\\ejerciciosfundaprogrcsharp\\matrizrotada90gradosaladerecha\\matrizrotada90gradosaladerecha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728A2539-A937-4BC3-AE67-891B41E91426}|MatrizRotada90GradosALaDerecha\\MatrizRotada90GradosALaDerecha.csproj|solutionrelative:matrizrotada90gradosaladerecha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\EjerciciosFundaProgrCsharp\\MatrizRotada90GradosALaDerecha\\MatrizRotada90GradosALaDerecha\\Program.cs",
+              "RelativeDocumentMoniker": "MatrizRotada90GradosALaDerecha\\Program.cs",
+              "ToolTip": "D:\\workspace\\EjerciciosFundaProgrCsharp\\MatrizRotada90GradosALaDerecha\\MatrizRotada90GradosALaDerecha\\Program.cs",
+              "RelativeToolTip": "MatrizRotada90GradosALaDerecha\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwFIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:02:12.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

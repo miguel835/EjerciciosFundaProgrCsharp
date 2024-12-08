@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\workspace\\EjerciciosFundaProgrCsharp\\TranspuestaDeUnaMatriz\\",
+  "WorkspaceRootPath": "D:\\workspace\\EjerciciosFundaProgrCsharp\\TranspuestaDeUnaMatriz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{115F7007-0C3E-4E7A-8BEF-9830EE1A9A39}|TranspuestaDeUnaMatriz\\TranspuestaDeUnaMatriz.csproj|c:\\workspace\\ejerciciosfundaprogrcsharp\\transpuestadeunamatriz\\transpuestadeunamatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{115F7007-0C3E-4E7A-8BEF-9830EE1A9A39}|TranspuestaDeUnaMatriz\\TranspuestaDeUnaMatriz.csproj|d:\\workspace\\ejerciciosfundaprogrcsharp\\transpuestadeunamatriz\\transpuestadeunamatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{115F7007-0C3E-4E7A-8BEF-9830EE1A9A39}|TranspuestaDeUnaMatriz\\TranspuestaDeUnaMatriz.csproj|solutionrelative:transpuestadeunamatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,14 +25,22 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\workspace\\EjerciciosFundaProgrCsharp\\TranspuestaDeUnaMatriz\\TranspuestaDeUnaMatriz\\Program.cs",
+              "DocumentMoniker": "D:\\workspace\\EjerciciosFundaProgrCsharp\\TranspuestaDeUnaMatriz\\TranspuestaDeUnaMatriz\\Program.cs",
               "RelativeDocumentMoniker": "TranspuestaDeUnaMatriz\\Program.cs",
-              "ToolTip": "C:\\workspace\\EjerciciosFundaProgrCsharp\\TranspuestaDeUnaMatriz\\TranspuestaDeUnaMatriz\\Program.cs",
+              "ToolTip": "D:\\workspace\\EjerciciosFundaProgrCsharp\\TranspuestaDeUnaMatriz\\TranspuestaDeUnaMatriz\\Program.cs",
               "RelativeToolTip": "TranspuestaDeUnaMatriz\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T00:46:43.959Z",
               "EditorCaption": ""
