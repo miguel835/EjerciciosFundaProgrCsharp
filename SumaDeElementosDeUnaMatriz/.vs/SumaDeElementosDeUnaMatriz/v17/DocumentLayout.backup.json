@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\EjerciciosFundaProgrCsharp\\SumaDeElementosDeUnaMatriz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15F66830-9CBF-4D29-89BF-6C4D260657E1}|SumaDeElementosDeUnaMatriz\\SumaDeElementosDeUnaMatriz.csproj|d:\\workspace\\ejerciciosfundaprogrcsharp\\sumadeelementosdeunamatriz\\sumadeelementosdeunamatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F66830-9CBF-4D29-89BF-6C4D260657E1}|SumaDeElementosDeUnaMatriz\\SumaDeElementosDeUnaMatriz.csproj|solutionrelative:sumadeelementosdeunamatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\EjerciciosFundaProgrCsharp\\SumaDeElementosDeUnaMatriz\\SumaDeElementosDeUnaMatriz\\Program.cs",
+              "RelativeDocumentMoniker": "SumaDeElementosDeUnaMatriz\\Program.cs",
+              "ToolTip": "D:\\workspace\\EjerciciosFundaProgrCsharp\\SumaDeElementosDeUnaMatriz\\SumaDeElementosDeUnaMatriz\\Program.cs",
+              "RelativeToolTip": "SumaDeElementosDeUnaMatriz\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAD8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:29:40.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
