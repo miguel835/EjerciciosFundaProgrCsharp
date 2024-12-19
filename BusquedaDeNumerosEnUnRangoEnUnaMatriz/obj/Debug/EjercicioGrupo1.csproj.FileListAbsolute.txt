@@ -1,0 +1,14 @@
+C:\Users\TICS\Desktop\EjercicioGrupo1\bin\Debug\EjercicioGrupo1.exe.config
+C:\Users\TICS\Desktop\EjercicioGrupo1\bin\Debug\EjercicioGrupo1.exe
+C:\Users\TICS\Desktop\EjercicioGrupo1\bin\Debug\EjercicioGrupo1.pdb
+C:\Users\TICS\Desktop\EjercicioGrupo1\obj\Debug\EjercicioGrupo1.csproj.AssemblyReference.cache
+C:\Users\TICS\Desktop\EjercicioGrupo1\obj\Debug\EjercicioGrupo1.csproj.CoreCompileInputs.cache
+C:\Users\TICS\Desktop\EjercicioGrupo1\obj\Debug\EjercicioGrupo1.exe
+C:\Users\TICS\Desktop\EjercicioGrupo1\obj\Debug\EjercicioGrupo1.pdb
+C:\workspace\EjerciciosFundaProgrCsharp\EjercicioGrupo1\bin\Debug\EjercicioGrupo1.exe.config
+C:\workspace\EjerciciosFundaProgrCsharp\EjercicioGrupo1\bin\Debug\EjercicioGrupo1.exe
+C:\workspace\EjerciciosFundaProgrCsharp\EjercicioGrupo1\bin\Debug\EjercicioGrupo1.pdb
+C:\workspace\EjerciciosFundaProgrCsharp\EjercicioGrupo1\obj\Debug\EjercicioGrupo1.csproj.AssemblyReference.cache
+C:\workspace\EjerciciosFundaProgrCsharp\EjercicioGrupo1\obj\Debug\EjercicioGrupo1.csproj.CoreCompileInputs.cache
+C:\workspace\EjerciciosFundaProgrCsharp\EjercicioGrupo1\obj\Debug\EjercicioGrupo1.exe
+C:\workspace\EjerciciosFundaProgrCsharp\EjercicioGrupo1\obj\Debug\EjercicioGrupo1.pdb

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\EjerciciosFundaProgrCsharp\\BusquedaDelElementoQueM\u00E1sSeRepiteEnUnaMatriz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D06BFD06-E4C2-4374-9765-EF14E83D9063}|BusquedaDelElementoQueM\u00E1sSeRepiteEnUnaMatriz\\BusquedaDelElementoQueM\u00E1sSeRepiteEnUnaMatriz.csproj|c:\\workspace\\ejerciciosfundaprogrcsharp\\busquedadelelementoquem\u00E1sserepiteenunamatriz\\busquedadelelementoquem\u00E1sserepiteenunamatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06BFD06-E4C2-4374-9765-EF14E83D9063}|BusquedaDelElementoQueM\u00E1sSeRepiteEnUnaMatriz\\BusquedaDelElementoQueM\u00E1sSeRepiteEnUnaMatriz.csproj|solutionrelative:busquedadelelementoquem\u00E1sserepiteenunamatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\EjerciciosFundaProgrCsharp\\BusquedaDelElementoQueM\u00E1sSeRepiteEnUnaMatriz\\BusquedaDelElementoQueM\u00E1sSeRepiteEnUnaMatriz\\Program.cs",
+              "RelativeDocumentMoniker": "BusquedaDelElementoQueM\u00E1sSeRepiteEnUnaMatriz\\Program.cs",
+              "ToolTip": "C:\\workspace\\EjerciciosFundaProgrCsharp\\BusquedaDelElementoQueM\u00E1sSeRepiteEnUnaMatriz\\BusquedaDelElementoQueM\u00E1sSeRepiteEnUnaMatriz\\Program.cs",
+              "RelativeToolTip": "BusquedaDelElementoQueM\u00E1sSeRepiteEnUnaMatriz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:57:20.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

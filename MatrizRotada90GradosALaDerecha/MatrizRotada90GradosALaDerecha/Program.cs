@@ -13,78 +13,53 @@ namespace MatrizRotada90GradosALaDerecha
     {
         static void Main(string[] args)
         {
-            try
+            Console.Write("Ingrese el numero de filas: ");
+            int filas = int.Parse(Console.ReadLine());
+            Console.Write("Ingrese el numero de columnas: ");
+            int columnas = int.Parse(Console.ReadLine());
+            int[,] matriz = new int[filas, columnas];
+
+            for (int i = 0; i < filas; i++)
             {
-                //Declaración de variables
-                int[,] matrizOriginal, matrizRotada;
-                int i = 0, j = 0, filas, columnas, numeroLimite;
-                Random aleatorio = new Random();
-                //Configuración visual de la consola
-                Console.BackgroundColor = ConsoleColor.Gray;
-                Console.ForegroundColor = ConsoleColor.Blue;
-                Console.Clear();
-                //Titulo
-                Console.SetCursorPosition(10, 0);
-                Console.WriteLine("Programa para rotar 90 grados una matriz");
-                //Ingreso del numero de filas y columnas
-                Console.Write("Ingrese el numero de filas: ");
-                filas = int.Parse(Console.ReadLine());
-                Console.Write("Ingrese el numero de columnas: ");
-                columnas = int.Parse(Console.ReadLine());
-                Console.Write("Ingrese el numero limite para el llenado aleatorio: ");
-                numeroLimite = int.Parse(Console.ReadLine());
-                Console.WriteLine($"La matriz original {filas} x {columnas} es: ");
-                //Establecemos el tamaño de la matriz
-                matrizOriginal = new int[filas, columnas];
-                //Establecemos el tamaño de la matriz rotada
-                matrizRotada = new int[columnas, filas];
-                //Recorrido de la matriz original 
-                //Recorrido de las filas
-                while (i < filas)
+                for (int j = 0; j < columnas; j++)
                 {
-                    j = 0;
-                    //Recorrido de las columnas
-                    while (j < columnas)
-                    {
-                        //Llenado aleatorio de la matriz
-                        matrizOriginal[i, j] = aleatorio.Next(1, numeroLimite);
-                        Console.Write(matrizOriginal[i, j] + " ");
-                        j++;
-                    }
-                    Console.Write("\n");
-                    i++;
-                }
-                Console.WriteLine($"La matriz rotada de {columnas} x {filas} es: ");
-                //Llenado de la matriz rotada
-                //Recorrido de las filas
-                i = 0;
-                while (i < filas)
-                {
-                    j = 0;
-                    //Recorrido de las columnas
-                    while (j < columnas)
-                    {
-                        matrizRotada[j, filas - i - 1]= matrizOriginal[i, j];
-                        j++;
-                    }
-                    i++;
-                }
-                //Mostramos la matriz rotada
-                j = 0; 
-                while (j < columnas)
-                {
-                    i = 0;
-                    //Recorrido de las columnas
-                    while (i < filas)
-                    {
-                        Console.WriteLine(matrizRotada[j,i] + " ");
-                        i++;
-                    }
-                    Console.WriteLine();
-                    j++;
+                    Console.Write($"Ingrese el valor para la posición [{i},{j}]: ");
+                    matriz[i, j] = int.Parse(Console.ReadLine());
                 }
             }
-            catch { Console.WriteLine("Ha ocurrido un error"); }
+            Console.WriteLine("Matriz llenada con exito");
+
+            int[,] matrizRotada = new int[columnas, filas];
+            for (int i = 0; i < filas; i++)
+            {
+                for (int j = 0; j < columnas; j++)
+                {
+                    matrizRotada[j, filas -1 -i] = matriz[i, j];
+                }
+            }
+
+            Console.WriteLine("Matriz Original: ");
+            for (int i = 0; i < filas; i++)
+            {
+                for (int j = 0; j < columnas; j++)
+                {
+                    Console.Write(matriz[i,j] + " ");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("Matriz rotada 90 grados a la derecha: ");
+            for (int i = 0; i < columnas; i++)
+            {
+                for (int j = 0; j < filas; j++)
+                {
+                    Console.Write(matrizRotada[i,j] + " ");                    
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("Presiona cualquier tecla para salir");
+            Console.ReadKey();
         }
     }
 }
