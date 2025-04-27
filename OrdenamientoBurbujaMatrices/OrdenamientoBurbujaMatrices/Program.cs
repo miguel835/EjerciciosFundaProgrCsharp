@@ -1,4 +1,4 @@
-﻿/*Crear una matriz didimensional de enteros, elegir un metodo de ordenación (por ejemplo, burbuja, selección, insercción)
+﻿/*Crear una matriz bidimensional de enteros, elegir un metodo de ordenación (por ejemplo, burbuja, selección, insercción)
 implementar el algoritmo de ordenación elegido para ordenar la matriz, imprimir la matriz ordenada en la consola.
 Se elegio el metodo burbuja
 */
@@ -14,25 +14,78 @@ namespace OrdenamientoBurbujaMatrices
     {
         static void Main(string[] args)
         {
-            Console.Write("Ingrese el numero de filas: ");
+            Console.Write("Ingrese el número de filas: ");
             int filas = int.Parse(Console.ReadLine());
-            Console.Write("Ingrese el numero de columnas: ");
+            Console.Write("Ingrese el número de columnas: ");
             int columnas = int.Parse(Console.ReadLine());
-            int[,] matriz = new int[filas,columnas];
+            int[,] matriz = new int[filas, columnas];
+
+            // Llenado de la matriz
             Random aleatorio = new Random();
-            int i = 0, j = 0;
-            while (i < filas)
+            for (int i = 0; i < filas; i++)
             {
-                j = 0;
-                while (j < columnas)
+                for (int j = 0; j < columnas; j++)
                 {
-                    Console.WriteLine(matriz[i, j] = aleatorio.Next(1,9));
-                    j++;
+                    matriz[i, j] = aleatorio.Next(1, 9);
                 }
-                Console.WriteLine();
-                i++;
             }
 
+            // Impresión de la matriz
+            Console.WriteLine("La matriz generada es:");
+            for (int i = 0; i < filas; i++)
+            {
+                for (int j = 0; j < columnas; j++)
+                {
+                    Console.Write(matriz[i, j] + "\t");
+                }
+                Console.WriteLine();
+            }
+
+            // Convertir la matriz en un arreglo unidimensional
+            int[] arreglo = new int[filas * columnas];
+            int index = 0;
+            for (int i = 0; i < filas; i++)
+            {
+                for (int j = 0; j < columnas; j++)
+                {
+                    arreglo[index++] = matriz[i, j];
+                }
+            }
+
+            // Ordenar el arreglo unidimensional con método burbuja
+            for (int i = 0; i < arreglo.Length - 1; i++)
+            {
+                for (int j = 0; j < arreglo.Length - i - 1; j++)
+                {
+                    if (arreglo[j] > arreglo[j + 1])
+                    {
+                        int aux = arreglo[j];
+                        arreglo[j] = arreglo[j + 1];
+                        arreglo[j + 1] = aux;
+                    }
+                }
+            }
+
+            // Reconstruir la matriz desde el arreglo ordenado
+            index = 0;
+            for (int i = 0; i < filas; i++)
+            {
+                for (int j = 0; j < columnas; j++)
+                {
+                    matriz[i, j] = arreglo[index++];
+                }
+            }
+
+            // Impresión de la matriz ordenada
+            Console.WriteLine("--- Matriz ordenada a través del método burbuja ---");
+            for (int i = 0; i < filas; i++)
+            {
+                for (int j = 0; j < columnas; j++)
+                {
+                    Console.Write(matriz[i, j] + "\t");
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
