@@ -4,7 +4,7 @@ En este repositorio se encuentran ejercicios propuestos y las soluciones a los m
 ### ¿Cómo clono este repositorio?
 Simplemente copia este comando y ejecutalo en el git
 ```bash
-https://github.com/miguel835/EjerciciosPOO.git
+git clone https://github.com/miguel835/EjerciciosFundaProgrCsharp.git
 ```
 
 ## Tabla de contenido por tema
