@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\workspace\\EjerciciosFundaProgrCsharp\\MatrizRotada90GradosALaDerecha\\",
+  "WorkspaceRootPath": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\EjerciciosFundaProgrCsharp\\MatrizRotada90GradosALaDerecha\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{728A2539-A937-4BC3-AE67-891B41E91426}|MatrizRotada90GradosALaDerecha\\MatrizRotada90GradosALaDerecha.csproj|c:\\workspace\\ejerciciosfundaprogrcsharp\\matrizrotada90gradosaladerecha\\matrizrotada90gradosaladerecha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{728A2539-A937-4BC3-AE67-891B41E91426}|MatrizRotada90GradosALaDerecha\\MatrizRotada90GradosALaDerecha.csproj|c:\\users\\miguel diaz\\documents\\workspace\\ejerciciosfundaprogrcsharp\\matrizrotada90gradosaladerecha\\matrizrotada90gradosaladerecha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{728A2539-A937-4BC3-AE67-891B41E91426}|MatrizRotada90GradosALaDerecha\\MatrizRotada90GradosALaDerecha.csproj|solutionrelative:matrizrotada90gradosaladerecha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,25 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\workspace\\EjerciciosFundaProgrCsharp\\MatrizRotada90GradosALaDerecha\\MatrizRotada90GradosALaDerecha\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\EjerciciosFundaProgrCsharp\\MatrizRotada90GradosALaDerecha\\MatrizRotada90GradosALaDerecha\\Program.cs",
               "RelativeDocumentMoniker": "MatrizRotada90GradosALaDerecha\\Program.cs",
-              "ToolTip": "C:\\workspace\\EjerciciosFundaProgrCsharp\\MatrizRotada90GradosALaDerecha\\MatrizRotada90GradosALaDerecha\\Program.cs",
+              "ToolTip": "C:\\Users\\MIGUEL DIAZ\\Documents\\workspace\\EjerciciosFundaProgrCsharp\\MatrizRotada90GradosALaDerecha\\MatrizRotada90GradosALaDerecha\\Program.cs",
               "RelativeToolTip": "MatrizRotada90GradosALaDerecha\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAuwDUAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T17:02:12.87Z",
               "EditorCaption": ""
